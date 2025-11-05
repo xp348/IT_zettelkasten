@@ -40,6 +40,7 @@
 - [w3.org](https://www.w3.org/) — стандарты и спецификации для веб-технологий.  
 - [developer.mozilla.org](https://developer.mozilla.org/ru/) — исчерпывающая документация по HTML, CSS, JavaScript и API браузеров.  
 - [learn.javascript.ru](https://learn.javascript.ru/) — популярный русскоязычный курс по JavaScript от Ильи Кантора.
+- https://senjun.ru/courses/python/
 
 ---
 
